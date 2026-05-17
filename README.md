@@ -7,7 +7,7 @@ CodexW is a private workflow and support package for operators who want clearer 
 ## Live access
 
 - Product page: https://x2.brucelu.top/codexw/
-- Founding-access checkout: https://x2.brucelu.top/codexw/checkout/
+- Founding-access checkout: https://x2.brucelu.top/codexw/checkout/?source=github-codexw-public
 - Access setup form after payment: https://x2.brucelu.top/codexw/access/
 
 ## Founding access
